@@ -1,6 +1,5 @@
 import { useState, useRef, useContext } from "react";
 import { useHistory } from "react-router-dom";
-import HomePage from "../../pages/HomePage";
 
 import AuthContext from "../../store/auth-context";
 
